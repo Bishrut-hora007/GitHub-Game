@@ -1,1 +1,1 @@
-console.log("This is a demo, i repeat this wrong demo.")
+console.log("This is a demo, i repeat this right demo.")
